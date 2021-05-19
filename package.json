@@ -1,0 +1,14 @@
+{
+  "name": "arweave-store",
+  "version": "1.0.0",
+  "description": "arweave-store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Robert Stefan",
+  "license": "MIT",
+  "dependencies": {
+    "arweave": "^1.10.13"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Test", 
+    "external_url": "https://google.com", 
+    "image": "https://arweave.net/v0qkzPZt4aKqj0IUhfwHSiPhBpv5T0tubBEFhqlUza8", 
+    "name": "Test",
+    "attributes": [{
+      "property-name": "value"
+    }]
+  }
